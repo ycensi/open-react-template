@@ -1,0 +1,13 @@
+{
+    "editor.formatOnSave": true,
+    "javascript.format.enable": true,
+    "files.associations": {
+        "*.js": "javascriptreact"
+    },
+    "jshint.options": {
+        "esversion": 6
+    },
+    "jshint.enable": false,
+    "editor.tabSize": 2,
+    "files.eol": "\n"
+}
